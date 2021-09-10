@@ -4,9 +4,15 @@ Activity Trakcer is a simple Windows App that allows you to esealy track your ph
 
 ## Key Features
 
-- Keeps track of all your physical activities data
-- Add your own activities
-- Provide help on your current activity practice
-- Quick visual overview
+### Keep an eye on your activity time for each day
 
+With activity tracker it is now easy to get a global view on your daily activity time. 
+See how much time you spent exercicing with visual representation and a nice table wich shows everything important
 
+### See if you are doing enough
+
+See if you need to exercices more according to World Health Organisation's recommendation on physical activity
+
+### Add your own !
+
+Activity Tracker is adaptative, you add your activity, no need for presets and no activity diversity limitation.
