@@ -11,7 +11,7 @@ See how much time you spent exercicing with visual representation and a nice tab
 
 ### See if you are doing enough
 
-See if you need to exercices more according to World Health Organisation's recommendation on physical activity
+Activity Tracker tells you if you need to exercices more according to World Health Organisation's recommendation on physical activity for your age
 
 ### Add your own !
 
