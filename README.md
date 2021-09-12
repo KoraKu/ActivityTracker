@@ -24,6 +24,6 @@ Activity Tracker is adaptative, you add your activity, no need for presets and n
 ## Installation
 
 1. Downland the repository
-2. Go to bin/release/ActivityTrakcer.exe
+2. Go to ActivityTracker/bin/release/ActivityTrakcer.exe
 3. Run
 
