@@ -1,0 +1,11 @@
+D:\Users\Jacques\Desktop\AT\ActivityTracker\bin\Debug\ActivityTracker.exe.config
+D:\Users\Jacques\Desktop\AT\ActivityTracker\bin\Debug\ActivityTracker.exe
+D:\Users\Jacques\Desktop\AT\ActivityTracker\bin\Debug\ActivityTracker.pdb
+D:\Users\Jacques\Desktop\AT\ActivityTracker\obj\Debug\ActivityTracker.csprojAssemblyReference.cache
+D:\Users\Jacques\Desktop\AT\ActivityTracker\obj\Debug\ActivityTracker.Form1.resources
+D:\Users\Jacques\Desktop\AT\ActivityTracker\obj\Debug\ActivityTracker.Properties.Resources.resources
+D:\Users\Jacques\Desktop\AT\ActivityTracker\obj\Debug\ActivityTracker.csproj.GenerateResource.cache
+D:\Users\Jacques\Desktop\AT\ActivityTracker\obj\Debug\ActivityTracker.csproj.CoreCompileInputs.cache
+D:\Users\Jacques\Desktop\AT\ActivityTracker\obj\Debug\ActivityTracker.exe
+D:\Users\Jacques\Desktop\AT\ActivityTracker\obj\Debug\ActivityTracker.pdb
+D:\Users\Jacques\Desktop\AT\ActivityTracker\obj\Debug\ActivityTracker.FormHelp.resources
